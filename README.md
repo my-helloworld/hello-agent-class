@@ -1,6 +1,6 @@
 # Hello Agent Class
 
-DEMO: 为一个 springboot 应用添加`org.springframework.web.servlet.DispatcherServlet`调用耗时
+DEMO: 为一个 spring-boot-starter-web 应用添加`DispatcherServlet` 调用耗时监控
 
 构建:
 
